@@ -1,0 +1,1 @@
+100.0- ATPG mutated seeds hit coverage >=90

@@ -1,0 +1,7 @@
+uart_tx_inst_n_17
+uart_tx_inst_n_92
+uart_tx_inst_n_143
+uart_tx_inst_n_25
+uart_tx_inst_n_180
+uart_rx_inst_data_reg4
+uart_rx_inst_n_43
