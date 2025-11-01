@@ -1,6 +1,10 @@
 # PROFUZZ: Directed Graybox Fuzzing via Module Selection and ATPG-Guided Seed Generation
 This repository contains the artifacts accompanying our paper titled **PROFUZZ: Directed Graybox Fuzzing via Module Selection and ATPG-Guided Seed Generation**, which has been accepted for publication in *2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD'25)*.
 
+Additional information and paper can be found [here](https://mason.gmu.edu/~rsaravan/projects/profuzz/profuzz.html). 
+
+
+
 This artifact repository includes the following:
 * Tcl Scripts for directed pattern generation leveraging Synopsys TestMax ATPG
 * Python Scripts for automating diverse tasks: Target Site Selection, Submodule Generation, Fuzzing Coverage, etc.
